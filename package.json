@@ -1,0 +1,23 @@
+{
+  "name": "image-optimization-hometask",
+  "version": "1.0.0",
+  "description": "Image optimization hometask",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitminsk/image-optimization-hometask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kitminsk/image-optimization-hometask/issues"
+  },
+  "homepage": "https://github.com/kitminsk/image-optimization-hometask#readme",
+  "dependencies": {
+    "sharp": "^0.32.1"
+  }
+}
